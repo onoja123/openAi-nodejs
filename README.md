@@ -3,4 +3,4 @@
 - Here is a link to test
 https://imagegen-9746.onrender.com
 
-NB: please dont mind the design.
+NB: please dont mind the design, i hate css.
