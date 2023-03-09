@@ -19,7 +19,7 @@ function onSubmit(e) {
     try {
       showSpinner();
   
-      const response = await fetch('/openai/generateimage', {
+      const response = await fetch('https://api.openai.com/v1/images/generations', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
